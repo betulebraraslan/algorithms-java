@@ -3,11 +3,15 @@
 
 This repository contains implementations of common algorithms and data structures in Java.
 
+## Technologies
+
+Java • Git • GitHub
+
 ## 📁 Structure
 
 - arrays
 - strings
-- hashmap
+- hashing
 - linkedlist
 - stack
 - queue
@@ -16,12 +20,13 @@ This repository contains implementations of common algorithms and data structure
 - sorting
 - searching
 
-## 📌 HashMap Problems
+## 📌 Hash-Based Problems
 
-This section includes problems solved using HashMap for efficient lookup:
+This section includes problems solved using hash-based data structures (HashMap / HashSet) for efficient lookup.
 
-- Two Sum (O(n) solution)
-- Number Grouping by Digit Sum (custom problem)
+- Contains Duplicate (HashSet, O(n))
+- Two Sum (HashMap, O(n))
+- Number Grouping by Digit Sum (HashMap, O(n))
 
 ## 🎯 Goal
 
