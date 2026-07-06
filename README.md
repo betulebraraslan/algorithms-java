@@ -27,6 +27,7 @@ This section includes problems solved using hash-based data structures (HashMap 
 - Contains Duplicate (HashSet, O(n))
 - Two Sum (HashMap, O(n))
 - Number Grouping by Digit Sum (HashMap, O(n))
+- Valid Anagram (HashMap, O(n))
 
 ## 🎯 Goal
 
