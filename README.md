@@ -28,6 +28,7 @@ This section includes problems solved using hash-based data structures (HashMap 
 - Two Sum (HashMap, O(n))
 - Number Grouping by Digit Sum (HashMap, O(n))
 - Valid Anagram (HashMap, O(n))
+- Group Anagrams (HashMap with sorted string keys, O(n * k log k))
 
 ## 🎯 Goal
 
